@@ -356,6 +356,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Fourier](f/Fourier.fourier)
 * [FoxPro](f/FoxPro.prg)
 * [Fractran++](f/Fractran%2B%2B.fpp)
+* [FreakC](f/FreakC.fclang)
 * [Freebrain](f/Freebrain.frbr)
 * [Frink](f/Frink.frink)
 * [FROM HERE TO THERE](f/FROM%20HERE%20TO%20THERE)
